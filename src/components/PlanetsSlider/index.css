@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  padding: 30px;
+  min-height: 100vh;
+  background-size: cover;
+}
+.custom-slider {
+  text-align: center;
+}
+.heading {
+  text-align: center;
+  color: #05acff;
+}
+.custom-dots {
+  color: #fff;
+}

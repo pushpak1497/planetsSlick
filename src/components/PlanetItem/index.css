@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.planet {
+  height: 200px;
+  width: 200px;
+  margin: auto;
+}
+.name {
+  color: #fff;
+}
+.text {
+  color: #fff;
+}
